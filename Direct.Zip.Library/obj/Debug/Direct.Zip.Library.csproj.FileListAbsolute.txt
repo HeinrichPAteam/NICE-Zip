@@ -1,0 +1,10 @@
+C:\Users\martijn\source\repos\Direct.Zip.Library\Direct.Zip.Library\obj\Debug\Direct.Zip.Library.csprojAssemblyReference.cache
+C:\Users\martijn\source\repos\Direct.Zip.Library\Direct.Zip.Library\bin\Debug\Direct.Zip.Library.dll
+C:\Users\martijn\source\repos\Direct.Zip.Library\Direct.Zip.Library\bin\Debug\Direct.Zip.Library.pdb
+C:\Users\martijn\source\repos\Direct.Zip.Library\Direct.Zip.Library\bin\Debug\Direct.Shared.dll
+C:\Users\martijn\source\repos\Direct.Zip.Library\Direct.Zip.Library\bin\Debug\Direct.Shared.Library.dll
+C:\Users\martijn\source\repos\Direct.Zip.Library\Direct.Zip.Library\bin\Debug\log4net.dll
+C:\Users\martijn\source\repos\Direct.Zip.Library\Direct.Zip.Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\martijn\source\repos\Direct.Zip.Library\Direct.Zip.Library\obj\Debug\Direct.Zip.Library.csproj.CopyComplete
+C:\Users\martijn\source\repos\Direct.Zip.Library\Direct.Zip.Library\obj\Debug\Direct.Zip.Library.dll
+C:\Users\martijn\source\repos\Direct.Zip.Library\Direct.Zip.Library\obj\Debug\Direct.Zip.Library.pdb
